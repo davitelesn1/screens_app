@@ -3,9 +3,11 @@
 This is a simple Flutter application designed to practice and reinforce the fundamentals of **navigation between multiple screens** using **named routes** and **manual routing** with `MaterialPageRoute`.
 
 ---
+## 📱 demonstration
+
+![Demo do app](assets/demo.gif)
 
 ## 🔍 Overview
-![Demo do app](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhnczJoaDEyeG9kczRzb3k5NGdmNHBsN2dmcXQyMjY2cnJtbmZ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d4THTLmukmvS5xahpx/giphy.gif)
 
 The app consists of three screens:
 
