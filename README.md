@@ -51,9 +51,6 @@ Each screen has:
 - Used `initialRoute` and the `routes` map in `MaterialApp` for clean navigation control.
 
 ---
-## 📱 Demonstração
-
-![Demo do app](assets/demo.gif)
 
 ## 🚀 How to Run
 
