@@ -5,6 +5,7 @@ This is a simple Flutter application designed to practice and reinforce the fund
 ---
 
 ## 🔍 Overview
+![Demo do app](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhnczJoaDEyeG9kczRzb3k5NGdmNHBsN2dmcXQyMjY2cnJtbmZ0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d4THTLmukmvS5xahpx/giphy.gif)
 
 The app consists of three screens:
 
@@ -48,6 +49,9 @@ Each screen has:
 - Used `initialRoute` and the `routes` map in `MaterialApp` for clean navigation control.
 
 ---
+## 📱 Demonstração
+
+![Demo do app](assets/demo.gif)
 
 ## 🚀 How to Run
 
@@ -59,6 +63,3 @@ cd flutter-navigation-practice
 # Run the app
 flutter run
 
-## 📱 Demonstração
-
-![Demo do app](assets/demo.gif)
